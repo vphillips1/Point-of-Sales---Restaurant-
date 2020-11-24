@@ -1,0 +1,13 @@
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\bin\Debug\netcoreapp3.1\Point of Sales Project.exe
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\bin\Debug\netcoreapp3.1\Point of Sales Project.deps.json
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\bin\Debug\netcoreapp3.1\Point of Sales Project.runtimeconfig.json
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\bin\Debug\netcoreapp3.1\Point of Sales Project.runtimeconfig.dev.json
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\bin\Debug\netcoreapp3.1\Point of Sales Project.dll
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\bin\Debug\netcoreapp3.1\Point of Sales Project.pdb
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\obj\Debug\netcoreapp3.1\Point of Sales Project.csprojAssemblyReference.cache
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\obj\Debug\netcoreapp3.1\Point of Sales Project.AssemblyInfoInputs.cache
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\obj\Debug\netcoreapp3.1\Point of Sales Project.AssemblyInfo.cs
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\obj\Debug\netcoreapp3.1\Point of Sales Project.csproj.CoreCompileInputs.cache
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\obj\Debug\netcoreapp3.1\Point of Sales Project.dll
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\obj\Debug\netcoreapp3.1\Point of Sales Project.pdb
+C:\Users\verke\source\repos\Point of Sales Project\Point of Sales Project\obj\Debug\netcoreapp3.1\Point of Sales Project.genruntimeconfig.cache
